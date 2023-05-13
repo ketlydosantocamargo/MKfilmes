@@ -1,4 +1,27 @@
 header {
-    background-color: #424E61;
-    color: white;
+    background: color 1B 261D;;
+    color: rgba(19, 129, 47);
 }
+<header>
+        <img src="" alt="">
+        <ul>
+            <li>filme</li>
+            <li>filme</li>
+        </ul>
+    </header>
+    .cabecalho-imagem{
+        width: 20%;
+    }
+
+    .cabecalho {
+        background-color: 2CBA2B;
+        color: solid;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 24px 0;
+    }
+   
+    .filme-imagem{
+        width: 25%;
+    }
